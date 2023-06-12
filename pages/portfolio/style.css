@@ -1,0 +1,40 @@
+/* PORTFOLIOS */
+.about-me-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 1015px;
+    height: 500px;
+    margin-top: 94px;
+    margin-bottom: 40px;
+    background-color: #fafafa;
+}
+
+.img-profile{
+    width: 540px;
+    height: 500px;
+}
+.about-me-text-box{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 100%;
+    border-bottom: 1px solid rgba(51, 50, 61, 0.2);
+    border-top: 1px solid rgba(51, 50, 61, 0.2);
+}
+.about-me-title{
+    margin-top: 103px;
+    margin-bottom: 28px;
+    font-size: 40px;
+    font-family: 'Ibarra Real Nova', sans-serif;
+    color: #33323D;
+}
+.about-me-text{
+    font-size: 16px;
+    font-family: 'Public Sans', sans-serif;
+    line-height: 30px;
+    color: #33323D;
+}
+.container-contact{
+    margin-top: 150px;
+}
